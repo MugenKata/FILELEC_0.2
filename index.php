@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FILELEC </title>
+	<title>File-Elec </title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<style>
